@@ -1,0 +1,13 @@
+{
+  "name": "loop",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "=18.17.1"
+  },
+  "volta": {
+    "node": "18.17.1",
+    "npm": "10.4.0"
+  }
+}
